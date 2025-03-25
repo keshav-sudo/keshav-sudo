@@ -45,10 +45,10 @@ Git & GitHub
 
 <p align="center">
   <a href="https://github.com/keshav-sudo">
-    <img src="https://github-readme-stats.vercel.app/api?username=keshav-sudo&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=keshav-sudo&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/keshav-sudo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?username=keshav-sudo&theme=radical" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-sudo&theme=radical&cache_seconds=86400" alt="GitHub Streak" width="48%" />
   </a>
 </p>
 
