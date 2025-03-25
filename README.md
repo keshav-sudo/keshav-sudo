@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey there, I'm Your Name! 👋</h1>
+<h1 align="center">🚀 Hey there, I'm Keshav Sharma! 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
@@ -8,16 +8,16 @@
 ---
 
 ### 🌟 **About Me**
-- 🎯 **Full-Stack Developer | Open-Source Enthusiast | Tech Explorer**
-- 🚀 **Learning Web Development 2.0 from Harkirat Singh's Cohort**
-- 📚 **Completed MERN Stack** | Currently learning **TypeScript & PostgreSQL**
-- 🏆 **Goal: Master Full-Stack & DevOps in the next 3 months**
-- 💡 **Building projects & contributing to Open Source**
+- 🎓 **B.Tech Student | 3rd Semester | Passionate Developer**
+- 🚀 **Full-Stack Web Developer | Open-Source Contributor**
+- 💡 **Always exploring new technologies & building exciting projects**
+- 🏆 **Goal: Master Full-Stack Development & DevOps in the next 3 months**
+- 🔥 **Strong interest in Backend, Cloud Computing & Scalable Systems**
 
 ---
 
 ### 🛠 **Tech Stack & Tools**  
-🔥 **Completed in Web Development 2.0 Cohort:**  
+✅ **What I’ve Mastered:**  
 - **Frontend:** React (Hooks, Context API, Recoil), TailwindCSS  
 - **Backend:** Node.js, Express, JWT Authentication  
 - **Database:** MongoDB  
