@@ -39,11 +39,19 @@ Git & GitHub
 
 ---
 
-### 🚀 **GitHub Stats**
+## 🚀 My GitHub Stats  
+
+🔗 **Checkout my GitHub Profile:** [GitHub - keshav-sudo](https://github.com/keshav-sudo)  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshav-sudo&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=keshav-sudo&theme=radical" width="48%" />
+  <a href="https://github.com/keshav-sudo">
+    <img src="https://github-readme-stats.vercel.app/api?username=keshav-sudo&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/keshav-sudo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?username=keshav-sudo&theme=radical" alt="GitHub Streak" width="48%" />
+  </a>
 </p>
+
 
 ---
 
