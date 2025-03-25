@@ -42,7 +42,7 @@ Git & GitHub
 ### 🚀 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keshav-sudo&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-sudo&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=keshav-sudo&theme=radical" width="48%" />
 </p>
 
 ---
