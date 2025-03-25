@@ -8,26 +8,30 @@
 ---
 
 ### 🌟 **About Me**
-- 🎓 **B.Tech Student | 3rd Semester | Passionate Developer**
-- 🚀 **Full-Stack Web Developer | Open-Source Contributor**
-- 💡 **Always exploring new technologies & building exciting projects**
-- 🏆 **Goal: Master Full-Stack Development & DevOps in the next 3 months**
-- 🔥 **Strong interest in Backend, Cloud Computing & Scalable Systems**
+- 🎓 **B.Tech Student | 3rd Semester**
+- 🚀 **Full-Stack Web Developer | Open-Source Enthusiast**
+- 🔥 **Passionate about Backend, Cloud, and Scalable Systems**
+- 💡 **Currently mastering Full-Stack & DevOps**
+- 🎯 **Goal: Secure a remote job or internship within 3 months**
+- 🌱 **I love solving real-world problems through code!**
 
 ---
 
-### 🛠 **Tech Stack & Tools**  
-✅ **What I’ve Mastered:**  
-- **Frontend:** React (Hooks, Context API, Recoil), TailwindCSS  
-- **Backend:** Node.js, Express, JWT Authentication  
-- **Database:** MongoDB  
-- **Version Control:** Git & GitHub  
+### 🛠 **Tech Stack & Tools**
+💻 **Frontend:**  
+React (Hooks, Context API, Recoil), TypeScript, TailwindCSS  
 
-🚀 **Currently Learning:**  
-- **TypeScript, PostgreSQL, AWS, Docker, Next.js, Kubernetes**  
+🛠 **Backend:**  
+Node.js, Express, JWT Authentication  
 
-⚡ **Upcoming Topics:**  
-- **Zerodha API, Zapier Automation, DevOps Deep Dive**  
+🗄 **Database:**  
+MongoDB, PostgreSQL  
+
+🚀 **DevOps & Cloud:**  
+AWS, Docker, Kubernetes (learning)  
+
+📌 **Version Control:**  
+Git & GitHub  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,nodejs,express,mongodb,postgres,aws,docker,git,github,vscode" />
@@ -65,7 +69,7 @@
 
 ---
 
-### 📫 **Let's Connect!**
+### 🌍 **Let's Connect!**
 <p align="center">
   <a href="https://www.linkedin.com/in/thesharmakeshav/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -80,4 +84,4 @@
 
 ---
 
-⭐ **Don't forget to star my repositories!** ⭐
+⭐ **If you find my work interesting, consider giving my repositories a star!** ⭐
