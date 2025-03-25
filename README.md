@@ -1,12 +1,18 @@
 <!-- 🚀 Professional Profile Header -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <h1>Hi, I'm Keshav Choudhary</h1>
+  <h1>Hi, I'm Keshav Sharma</h1>
   <h3>Senior Full-Stack Engineer | Cloud Architect | Open Source Advocate</h3>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://keshav.tech)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-sudo)
-  [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@keshav-sudo)
+  <a href="https://keshav.tech">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/keshav-sudo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@keshav-sudo">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
 </div>
 
 ---
@@ -43,8 +49,9 @@
 ## 📈 Engineering Impact
 
 <div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=keshav-sudo&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=keshav-sudo&theme=radical&hide_border=true" alt="GitHub Streak">
+  </a>
   
   | Metric           | Achievement        |
   |------------------|--------------------|
@@ -52,7 +59,6 @@
   | **Code Reviews** | 150+ PRs reviewed  |
   | **Optimization** | 40% perf. gains    |
   | **Mentorship**   | 15+ junior devs    |
-
 </div>
 
 ---
@@ -91,6 +97,6 @@ AWS Lambda architecture handling $1M+ annual sales
 <div align="center">
   <h3>🚀 Ready to Engineer Excellence?</h3>
   <a href="mailto:hello@keshav.tech">
-    <img src="https://img.shields.io/badge/Contact_Me-FF4088?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Contact_Me-FF4088?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me">
   </a>
 </div>
