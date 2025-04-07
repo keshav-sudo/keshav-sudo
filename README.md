@@ -28,8 +28,9 @@
 | 🛠 Others      | Git, GitHub, Postman, Linux, VS Code, Turborepo                              |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,kubernetes,aws,prisma,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,docker,kubernetes,aws,git,github,postman,linux,vscode,tailwind" />
 </p>
+
 
 ---
 
