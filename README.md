@@ -1,19 +1,98 @@
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Keshav%20Sharma&fontAlign=40&fontColor=ffffff&fontSize=45&desc=Full-Stack%20Developer%20%7C%20DevOps%20Learner%20%7C%20Open%20Source%20Enthusiast&descAlign=60&descSize=18&descColor=ffffff&color=0f172a&animation=fadeIn" />
+<!-- Top Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Keshav%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20🚀&descSize=20&descAlignY=55" />
+
+<h3 align="center">🚀 Full-Stack Developer | DevOps Learner | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&pause=1000&color=00FF9F&center=true&vCenter=true&multiline=true&width=600&lines=Hey+there+👋,+I'm+Keshav+Sharma;Backend+Lover+%7C+Cloud+Learner+%7C+DevOps+in+Progress;Building+Scalable+Real-World+Apps+Every+Day;Let%E2%80%99s+Ship+Some+Cool+Stuff+Together+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Modern+Web+Apps;Mastering+Full-Stack+%26+DevOps;Loving+Backend,+Cloud+%26+Scalable+Systems;&center=true&width=500&height=30" />
 </p>
 
 ---
 
-### 🧠 About Me  
-```ts
-const keshav = {
-  username: "keshav-sudo",
-  role: "Full-Stack Developer",
-  education: "B.Tech CSE - 3rd Semester",
-  focus: ["Backend Systems", "Cloud Deployments", "DevOps"],
-  goal: "Get a Remote Job/Internship in 3 Months 🔥",
-  codePhilosophy: "Write clean, scalable, testable code 🚀",
-};
+### 🧑‍💻 About Me
+
+- 🎓 3rd Sem B.Tech CSE Student  
+- 💼 Backend-first Full-Stack Developer (MERN + PostgreSQL)  
+- 🐳 Learning DevOps: Docker | Kubernetes | AWS  
+- 🌍 Contributor to Open Source & Real-World Scalable Systems  
+- 🎯 Goal: **Remote Dev Job / Internship in 3 Months**  
+- ✨ Passionate about Clean Code, Automation & Problem-Solving
+
+---
+
+### ⚒️ Tech Stack
+
+| Domain        | Tech & Tools                                                                 |
+|---------------|-------------------------------------------------------------------------------|
+| 💻 Frontend    | React, Next.js, TypeScript, TailwindCSS                                      |
+| 🧪 Backend     | Node.js, Express, REST APIs, JWT Auth                                         |
+| 🗄️ Databases  | MongoDB, PostgreSQL, Prisma, Neon DB                                         |
+| ☁️ DevOps      | Docker, AWS EC2/S3, Kubernetes (Learning), GitHub Actions                    |
+| 🛠 Others      | Git, GitHub, Postman, Linux, VS Code, Turborepo                              |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,kubernetes,aws,prisma,git,github,vscode,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshav-sudo&show_icons=true&theme=radical&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-sudo&theme=radical&border_radius=12" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keshav-sudo&theme=algolia&no-frame=true&margin-w=10&margin-h=15" />
+</p>
+
+---
+
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-sudo&layout=compact&theme=radical&langs_count=8&hide=shaderlab,hlsl&border_radius=10" />
+</p>
+
+---
+
+### 🚧 Projects in Progress
+
+- ✅ MERN SaaS Boilerplate  
+- ✅ TypeScript + PostgreSQL Auth System  
+- ✅ Dockerized Full-Stack Deployment (AWS EC2 + NGINX + PM2)  
+- ⏳ T3 Stack + TurboRepo Monorepo Setup  
+- ⏳ Blog + Portfolio (Next.js + MDX)
+
+---
+
+### 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thesharmakeshav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/keshavsharmma" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="https://github.com/keshav-sudo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keshav-sudo&color=brightgreen&style=for-the-badge" />
+</p>
+
+---
+
+### 💬 Final Note
+
+> *"Code. Learn. Build. Repeat."*  
+> ⭐ If you find my work inspiring, drop a star — let’s grow together!
+
