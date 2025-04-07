@@ -1,4 +1,3 @@
-
 <h3 align="center">🚀 Full-Stack Developer | DevOps Learner | Open Source Contributor</h3>
 
 <p align="center">
@@ -9,24 +8,28 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 3rd Sem B.Tech CSE Student  
-- 💼 Backend-first Full-Stack Developer (MERN + PostgreSQL)  
-- 🐳 Learning DevOps: Docker | Kubernetes | AWS  
-- 🌍 Contributor to Open Source & Real-World Scalable Systems  
-- 🎯 Goal: **Remote Dev Job / Internship in 3 Months**  
-- ✨ Passionate about Clean Code, Automation & Problem-Solving
+<p align="center">
+  - 🎓 3rd Sem B.Tech CSE Student  
+  - 💼 Backend-first Full-Stack Developer (MERN + PostgreSQL)  
+  - 🐳 Learning DevOps: Docker | Kubernetes | AWS  
+  - 🌍 Contributor to Open Source & Real-World Scalable Systems  
+  - 🎯 Goal: **Remote Dev Job / Internship in 3 Months**  
+  - ✨ Passionate about Clean Code, Automation & Problem-Solving
+</p>
 
 ---
 
 ### ⚒️ Tech Stack
 
-| Domain        | Tech & Tools                                                                 |
-|---------------|-------------------------------------------------------------------------------|
-| 💻 Frontend    | React, Next.js, TypeScript, TailwindCSS                                      |
-| 🧪 Backend     | Node.js, Express, REST APIs, JWT Auth                                         |
-| 🗄️ Databases  | MongoDB, PostgreSQL, Prisma, Neon DB                                         |
-| ☁️ DevOps      | Docker, AWS EC2/S3, Kubernetes (Learning), GitHub Actions                    |
-| 🛠 Others      | Git, GitHub, Postman, Linux, VS Code, Turborepo                              |
+<p align="center">
+  | Domain        | Tech & Tools                                                                 |
+  |---------------|-------------------------------------------------------------------------------|
+  | 💻 Frontend    | React, Next.js, TypeScript, TailwindCSS                                      |
+  | 🧪 Backend     | Node.js, Express, REST APIs, JWT Auth                                         |
+  | 🗄️ Databases  | MongoDB, PostgreSQL, Prisma, Neon DB                                         |
+  | ☁️ DevOps      | Docker, AWS EC2/S3, Kubernetes (Learning), GitHub Actions                    |
+  | 🛠 Others      | Git, GitHub, Postman, Linux, VS Code, Turborepo                              |
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,kubernetes,aws,prisma,git,github,vscode,linux" />
@@ -57,11 +60,13 @@
 
 ### 🚧 Projects in Progress
 
-- ✅ MERN SaaS Boilerplate  
-- ✅ TypeScript + PostgreSQL Auth System  
-- ✅ Dockerized Full-Stack Deployment (AWS EC2 + NGINX + PM2)  
-- ⏳ T3 Stack + TurboRepo Monorepo Setup  
-- ⏳ Blog + Portfolio (Next.js + MDX)
+<p align="center">
+  - ✅ MERN SaaS Boilerplate  
+  - ✅ TypeScript + PostgreSQL Auth System  
+  - ✅ Dockerized Full-Stack Deployment (AWS EC2 + NGINX + PM2)  
+  - ⏳ T3 Stack + TurboRepo Monorepo Setup  
+  - ⏳ Blog + Portfolio (Next.js + MDX)
+</p>
 
 ---
 
@@ -91,6 +96,7 @@
 
 ### 💬 Final Note
 
-> *"Code. Learn. Build. Repeat."*  
-> ⭐ If you find my work inspiring, drop a star — let’s grow together!
-
+<p align="center">
+  > *"Code. Learn. Build. Repeat."*  
+  > ⭐ If you find my work inspiring, drop a star — let’s grow together!
+</p>
