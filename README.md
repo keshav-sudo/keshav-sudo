@@ -1,8 +1,9 @@
 <h3 align="center">🚀 Full-Stack Developer | DevOps Learner | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Modern+Web+Apps;Mastering+Full-Stack+%26+DevOps;Loving+Backend,+Cloud+%26+Scalable+Systems;&center=true&width=500&height=30" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,docker,kubernetes,aws,git,github,postman,linux,vscode,tailwind,solidity,hardhat,web3,firebase,graphql,figma,vercel,npm,redux" />
 </p>
+
 
 ---
 
