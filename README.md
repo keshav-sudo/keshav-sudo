@@ -1,5 +1,3 @@
-<!-- Top Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Keshav%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20🚀&descSize=20&descAlignY=55" />
 
 <h3 align="center">🚀 Full-Stack Developer | DevOps Learner | Open Source Contributor</h3>
 
