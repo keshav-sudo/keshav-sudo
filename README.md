@@ -33,8 +33,10 @@
 
 ---
 
-> 🚀 Kickstarted my [Fullstack Roadmap](https://github.com/keshav-sudo/fullstack) on 14 April 2025 | Grinding daily 💻
-> Started 14 April 
+##> 🚀 Kickstarted my [Fullstack Roadmap](https://github.com/keshav-sudo/fullstack) on 14 April 2025 | Grinding daily 💻
+
+##> Started 14 April 
+--- 
 
 ### 📈 GitHub Stats & Trophies
 
