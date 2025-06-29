@@ -8,11 +8,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 3rd Sem B.Tech CSE Student  
+- 🎓 4th Sem B.Tech CSE Student  
 - 💼 Backend-first Full-Stack Developer (MERN + PostgreSQL)  
 - 🐳 Learning DevOps: Docker | Kubernetes | AWS  
 - 🌍 Contributor to Open Source & Real-World Scalable Systems  
-- 🎯 Goal: **Remote Dev Job / Internship in 3 Months**  
+- 🎯 Goal: **Remote Dev Job / Internship in 4 Months**  
 - ✨ Passionate about Clean Code, Automation & Problem-Solving
 
 ---
