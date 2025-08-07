@@ -31,10 +31,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,kubernetes,aws,prisma,git,linux" />
 </p>
 
----
-
-> 🚀 Kickstarted my [Fullstack Roadmap](https://github.com/keshav-sudo/fullstack) on 14 April 2025 | Grinding daily 💻
-> Started 14 April 
 --- 
 
 ### 📈 GitHub Stats & Trophies
