@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 4th Sem B.Tech CSE Student  
+- 🎓 5th Sem B.Tech CSE Student  
 - 💼 Backend-first Full-Stack Developer (MERN + PostgreSQL)  
 - 🐳 Learning DevOps: Docker | Kubernetes | AWS  
 - 🌍 Contributor to Open Source & Real-World Scalable Systems  
