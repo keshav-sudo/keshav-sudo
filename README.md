@@ -23,10 +23,13 @@
 | Domain        | Tech & Tools                                                                 |
 |---------------|-------------------------------------------------------------------------------|
 | 💻 Frontend    | React, Next.js, TypeScript, TailwindCSS                                      |
-| 🧪 Backend     | Node.js, Express, REST APIs, JWT Auth                                         |
+| 🧪 Backend     | Node.js, Express, REST APIs, JWT Auth, Database Cursors                       |
 | 🗄️ Databases  | MongoDB, PostgreSQL, Prisma, Neon DB                                         |
-| ☁️ DevOps      | Docker, AWS EC2/S3, Kubernetes (Learning), GitHub Actions                    |
+| ☁️ DevOps      | Docker, AWS EC2/S3, Kubernetes (Learning), GitHub Actions, Nginx             |
+| 📨 Messaging   | Kafka, RabbitMQ, Redis Pub/Sub                                               |
 | 🛠 Others      | Git, GitHub, Postman, Linux, VS Code, Turborepo                              |
+
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,kubernetes,aws,prisma,git,linux" />
