@@ -12,7 +12,7 @@
 - 💼 Backend-first Full-Stack Developer (MERN + PostgreSQL)  
 - 🐳 Learning DevOps: Docker | Kubernetes | AWS  
 - 🌍 Contributor to Open Source & Real-World Scalable Systems  
-- 🎯 Goal: **Remote Dev Job /  Internship in 4 Months**
+- 🎯 Goal: **Remote Dev Job(SDE) In 7-10 Months**
 - 🏆 Completed 1st Goal : **Paid Internship Goal – 4 Sep 2025**
 - ✨ Passionate about Clean Code, Automation & Problem-Solving
 
