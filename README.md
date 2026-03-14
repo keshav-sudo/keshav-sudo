@@ -1,241 +1,244 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Keshav%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Open%20to%20Remote&descAlignY=51&descAlign=50" />
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║        ██╗  ██╗███████╗███████╗██╗  ██╗ █████╗ ██╗   ██╗ ║
+║        ██║ ██╔╝██╔════╝██╔════╝██║  ██║██╔══██╗██║   ██║ ║
+║        █████╔╝ █████╗  ███████╗███████║███████║██║   ██║ ║
+║        ██╔═██╗ ██╔══╝  ╚════██║██╔══██║██╔══██║╚██╗ ██╔╝ ║
+║        ██║  ██╗███████╗███████║██║  ██║██║  ██║ ╚████╔╝  ║
+║        ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ║
+║                    S H A R M A                            ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+### `$ whoami` → Backend Engineer · Distributed Systems · Microservices
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Go+%7C+Node.js+%7C+Kafka+%7C+gRPC+%7C+Docker+%7C+K8s;Building+distributed+systems+at+scale...;Event-driven+%7C+Microservices+%7C+High-performance+APIs;Open+to+remote+backend+%2F+SDE+roles+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav09sharma/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/keshavsharmma)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshav-sudo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thesharmakeshav@gmail.com)
+
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=45&lines=Building+Distributed+Microservices+%F0%9F%94%A5;Go+%7C+Node.js+%7C+gRPC+%7C+Kafka+%7C+K8s;500%2B+msg%2Fsec+%7C+8-Microservice+Platforms;Open+to+Remote+US+Internship+%F0%9F%8C%8D" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/keshav09sharma/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:thesharmakeshav@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/keshavsharmma">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=keshav-sudo&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
 
 ---
 
-## 🧑‍💻 About Me
+## `> init profile`
+
+```yaml
+name        : Keshav Sharma
+role        : Backend Engineer
+location    : Bareilly, India 📍
+focus       : Distributed Systems · Microservices · Event-Driven Architecture
+stack       : Go · Node.js · Kafka · gRPC · PostgreSQL · Redis · Docker · K8s
+goal        : Remote Backend / SDE — building systems that scale beyond a single machine
+status      : ✅ Open to Remote Opportunities
+```
+
+---
+
+## `> ls ./tech-stack`
+
+<div align="center">
+
+### 🔤 Languages
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Protobuf](https://img.shields.io/badge/Protobuf-%23FF6F00.svg?style=flat-square&logo=google&logoColor=white)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-%23244c5a.svg?style=flat-square&logo=google&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-%23FF6600.svg?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23010101.svg?style=flat-square&logo=socket.io)
+
+### 📨 Messaging & Streaming
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=flat-square&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-%23FF0000.svg?style=flat-square&logo=redis&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=flat-square)
+
+### 🚀 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+
+### 🎨 Frontend (When Needed)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</div>
+
+---
+
+## `> cat experience.log`
+
+<details>
+<summary><b>💼 Software Developer Intern — Sheryians Pvt Ltd, Bhopal</b> &nbsp;|&nbsp; <code>Nov 2025 – Present</code></summary>
+
+<br/>
+
+```diff
++ API response time improved by 40% via query optimization & DB indexing
++ Architected type-safe API layer handling 1000+ daily requests
++ Zero-downtime deployments implemented across distributed services
++ Cross-service data consistency strategies for microservices
++ Built React + Framer Motion UI → 15% boost in user engagement
+```
+
+</details>
+
+<details>
+<summary><b>💼 Full Stack Developer Intern — ClinixSphere (Remote)</b> &nbsp;|&nbsp; <code>Sep 2025 – Nov 2025</code></summary>
+
+<br/>
+
+```diff
++ Redesigned v2 API with Zod validation → 25% reduction in server errors
++ PostgreSQL query execution: 200ms → <80ms (60% faster)
++ 30+ merged PRs across backend & frontend modules
++ Delivered within Agile sprints and CI/CD workflows
+```
+
+</details>
+
+---
+
+## `> ls ./projects --verbose`
+
+### 🔷 [VerifyDev](https://github.com/keshav-sudo) — Distributed Developer Verification Platform
+
+```
+Stack: Go • Node.js • gRPC • RabbitMQ • Prisma • Socket.io • React Native • Next.js
+```
+
+> A platform with **8 microservices** — Auth, Users, Jobs, Recruiter, Chat, Resume, Analyzer, Aura Processor
+
+| Feature | Detail |
+|---|---|
+| 🔗 Inter-service comm | gRPC streaming |
+| 📨 Event messaging | RabbitMQ |
+| 🔍 GitHub Analyzer | Built in Go — detects tech stack + code quality metrics |
+| 💬 Real-time chat | Socket.io + gRPC streaming |
+| ⚡ Query performance | **65% faster** via Prisma indexing |
+| 📱 Frontend | React Native mobile + Next.js dashboard |
+
+---
+
+### 🔷 [SocialHub](https://github.com/keshav-sudo) — Event-Driven Social Platform
+
+```
+Stack: Node.js • Apache Kafka • Redis • LangChain • Docker • Kubernetes
+```
+
+> High-scale social backend processing **500+ messages/second**
+
+| Feature | Detail |
+|---|---|
+| 🏗️ Architecture | 8 microservices, fully containerized |
+| 🌊 Stream processing | Apache Kafka |
+| 🚀 Cache layer | Redis — **60% DB load reduction** |
+| 🤖 AI Moderation | LangChain + Google GenAI |
+| 📦 Infra | Docker + Kubernetes — **99.9% uptime** |
+
+---
+
+### 🔷 [Kurser](https://github.com/keshav-sudo) — Cloud Deployment Platform (Vercel-like PaaS)
+
+```
+Stack: TypeScript • Azure Blob Storage • BullMQ • Redis • Mongoose
+```
+
+> Automated deployments — React apps live in **< 45 seconds**
+
+| Feature | Detail |
+|---|---|
+| ⚡ Deploy speed | < 45 seconds |
+| 🗂️ Job queue | BullMQ + Redis architecture |
+| ☁️ CDN | Azure Blob Storage integration |
+| 🔄 CI/CD | GitHub Webhooks → automated pipelines |
+
+---
+
+## `> cat interests.txt`
+
+```
+📐 Distributed Systems Design
+📡 Event-Driven Architectures
+🔩 High-Performance APIs
+🌊 Stream Processing (Kafka, Redis Streams)
+🧩 Microservices Patterns
+☁️  Scalable Cloud Infrastructure
+```
+
+---
+
+## `> git stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=keshav-sudo&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-sudo&theme=radical&border_radius=10&hide_border=true&background=0d1117&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-sudo&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%" />
+
+</div>
+
+---
+
+## `> echo $PHILOSOPHY`
 
 ```go
-package main
+// keshav.go
 
-import "fmt"
+package engineer
 
-type Engineer struct {
-    Name        string
-    Role        string
-    Education   string
-    Location    string
-    CurrentWork string
-    Seeking     string
-    Contact     string
+type Keshav struct {
+    Build    string // "scalable systems"
+    Optimize string // "performance at every layer"
+    Design   string // "systems that scale beyond a single machine"
 }
 
-func main() {
-    me := Engineer{
-        Name:        "Keshav Sharma",
-        Role:        "Backend Engineer | Distributed Systems",
-        Education:   "B.Tech CSE @ AKTU (2023–2027)",
-        Location:    "Bareilly, India 🇮🇳",
-        CurrentWork: "Software Dev Intern @ Sheryians Pvt Ltd",
-        Seeking:     "Remote US Internship (Available Immediately)",
-        Contact:     "thesharmakeshav@gmail.com",
-    }
-    
-    fmt.Printf("👋 Hi, I'm %s\n", me.Name)
-    fmt.Printf("🔭 Currently: %s\n", me.CurrentWork)
-    fmt.Printf("🎯 Goal: %s\n", me.Seeking)
-    fmt.Printf("📫 Reach me: %s\n", me.Contact)
+func (k *Keshav) Motto() string {
+    return "Don't just write code. Build infrastructure."
 }
 ```
 
 ---
 
-## ⚒️ Tech Stack
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Backend</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=go,nodejs,express,ts" /><br/>
-        <b>Go (Gin) · Node.js · Express · TypeScript</b><br/>
-        gRPC · REST APIs · WebSockets
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Messaging & DB</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mongodb" /><br/>
-        <b>Kafka · RabbitMQ · Redis</b><br/>
-        PostgreSQL · MongoDB · Prisma
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">DevOps & Cloud</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" /><br/>
-        <b>Docker · Kubernetes · AWS · Azure</b><br/>
-        CI/CD · Nginx · GitHub Actions
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Frontend</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /><br/>
-        <b>React · Next.js · React Native</b><br/>
-        Tailwind CSS · Zustand · Framer Motion
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Languages</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=go,ts,js,cpp" /><br/>
-        <b>Go · TypeScript · JavaScript · C++</b><br/>
-        SQL · Protobuf
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Tools</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,linux,vim" /><br/>
-        <b>Git · GitHub · Linux · Postman</b><br/>
-        VS Code · BullMQ · Socket.io
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">VerifyDev</h3>
-      <p align="center">
-        <a href="https://github.com/keshav-sudo/verifydev">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshav-sudo&repo=verifydev&theme=tokyonight&border_radius=10" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-      <p align="center">
-        🏗️ <b>8 Microservices</b> · Auth, User, Job, Recruiter, Chat, Resume, Analyzer<br/>
-        ⚡ <b>65% faster queries</b> via Prisma indexes<br/>
-        📱 React Native app + Next.js dashboard
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">SocialHub</h3>
-      <p align="center">
-        <a href="https://github.com/keshav-sudo/socialhub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshav-sudo&repo=socialhub&theme=tokyonight&border_radius=10" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      </p>
-      <p align="center">
-        📨 <b>500+ msg/sec</b> via Apache Kafka<br/>
-        🤖 <b>AI content moderation</b> with LangChain + GenAI<br/>
-        ☁️ <b>99.9% uptime</b> with Kubernetes orchestration
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Kurser</h3>
-      <p align="center">
-        <a href="https://github.com/keshav-sudo/kurser">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshav-sudo&repo=kurser&theme=tokyonight&border_radius=10" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-        <img src="https://img.shields.io/badge/BullMQ-FF6600?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Nixpacks-000000?style=flat-square&logo=nixos&logoColor=white" />
-      </p>
-      <p align="center">
-        🚀 <b>Deploy in &lt;45 seconds</b> — Vercel-like PaaS<br/>
-        💾 Azure Blob Storage CDN-backed delivery<br/>
-        🔄 GitHub webhooks for automated CI/CD
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💼 Work Experience</h3>
-      <br/>
-      <p>
-        <b>🟢 Sheryians Pvt Ltd</b> · Nov 2025 – Present<br/>
-        <i>Software Developer Intern</i><br/>
-        → 40% faster API via query optimization<br/>
-        → Type-safe API layer, 1000+ daily requests<br/>
-        <br/>
-        <b>🔵 ClinixSphere</b> · Sep – Nov 2025<br/>
-        <i>Full Stack Developer Intern</i><br/>
-        → PostgreSQL: 200ms → &lt;80ms<br/>
-        → 30+ merged PRs, 25% fewer server errors<br/>
-        <br/>
-        <b>🏆 Goal 1:</b> Paid Internship – Sep 4, 2025 ✅<br/>
-        <b>🏆 Goal 2:</b> Paid Internship – Nov 26, 2025 ✅<br/>
-        <b>🎯 Goal 3:</b> Remote US Internship – 2026 ⏳
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshav-sudo&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=keshav-sudo&theme=tokyonight&border_radius=12&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-sudo&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&langs_count=8&hide=shaderlab,hlsl,css,html" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshav-sudo&theme=tokyo-night&hide_border=true&area=true&radius=12" width="49%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keshav-sudo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keshav-sudo/keshav-sudo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keshav-sudo/keshav-sudo/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/keshav-sudo/keshav-sudo/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+```
+┌─────────────────────────────────────────────┐
+│  📬  thesharmakeshav@gmail.com               │
+│  📍  Bareilly, India                         │
+│  🟢  Open to Remote Backend / SDE roles      │
+└─────────────────────────────────────────────┘
+```
+
+*"Build scalable systems. Optimize performance. Design systems that scale beyond a single machine."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=keshav-sudo&color=00ff88&style=flat-square&label=Profile+Views)
+
 </div>
