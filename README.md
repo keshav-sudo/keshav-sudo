@@ -28,6 +28,7 @@
 
 ---
 
+
 ## `> init profile`
 
 ```yaml
@@ -36,7 +37,10 @@ role        : Backend Engineer
 location    : Bareilly, India 📍
 focus       : Distributed Systems · Microservices · Event-Driven Architecture
 stack       : Go · Node.js · Kafka · gRPC · PostgreSQL · Redis · Docker · K8s
-goal        : Remote Backend / SDE — building systems that scale beyond a single machine
+goal        : { 🎯 Goal: Remote Dev Job(SDE) In 7-10 Months
+                🏆 Completed 1st Goal : Paid Internship Goal @CLinixSphere – 4 Sep 2025
+                🏆 Completed 1st Goal : Paid Internship Goal @Sheryians – 24 Sep 2025
+               }
 status      : ✅ Open to Remote Opportunities
 ```
 
@@ -95,7 +99,7 @@ status      : ✅ Open to Remote Opportunities
 ## `> cat experience.log`
 
 <details>
-<summary><b>💼 Software Developer Intern — Sheryians Pvt Ltd, Bhopal</b> &nbsp;|&nbsp; <code>Nov 2025 – Present</code></summary>
+<summary><b>💼 Software Developer Intern — Sheryians Pvt Ltd, Bhopal</b> &nbsp;|&nbsp; <code>Nov 2025 – March 2025</code></summary>
 
 <br/>
 
