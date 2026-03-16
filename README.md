@@ -39,7 +39,7 @@ focus       : Distributed Systems · Microservices · Event-Driven Architecture
 stack       : Go · Node.js · Kafka · gRPC · PostgreSQL · Redis · Docker · K8s
 goal        : { 🎯 Goal: Remote Dev Job(SDE) In 7-10 Months
                 🏆 Completed 1st Goal : Paid Internship Goal @CLinixSphere – 4 Sep 2025
-                🏆 Completed 1st Goal : Paid Internship Goal @Sheryians – 24 Sep 2025
+                🏆 Completed 1st Goal : Paid Internship Goal @Sheryians – 24 nov 2025
                }
 status      : ✅ Open to Remote Opportunities
 ```
