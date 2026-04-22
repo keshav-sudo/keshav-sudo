@@ -1,29 +1,18 @@
 <div align="center">
+  <img src="./header.png" alt="Header Banner" width="100%" />
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║        ██╗  ██╗███████╗███████╗██╗  ██╗ █████╗ ██╗   ██╗  ║
-║        ██║ ██╔╝██╔════╝██╔════╝██║  ██║██╔══██╗██║   ██║  ║
-║        █████╔╝ █████╗  ███████╗███████║███████║██║   ██║  ║
-║        ██╔═██╗ ██╔══╝  ╚════██║██╔══██║██╔══██║╚██╗ ██╔╝  ║
-║        ██║  ██╗███████╗███████║██║  ██║██║  ██║ ╚████╔╝   ║
-║        ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝    ║
-║                         S H A R M A                       ║
-╚═══════════════════════════════════════════════════════════╝
-```
+  <br />
 
-### `$ whoami` → Backend Engineer · Distributed Systems · Microservices
+  ### `$ whoami` → Backend Engineer · Distributed Systems · Microservices
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Go+%7C+Node.js+%7C+Kafka+%7C+gRPC+%7C+Docker+%7C+K8s;Building+distributed+systems+at+scale...;Event-driven+%7C+Microservices+%7C+High-performance+APIs;Open+to+remote+backend+%2F+SDE+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Go+%7C+Node.js+%7C+Kafka+%7C+gRPC+%7C+Docker+%7C+K8s;Building+distributed+systems+at+scale...;Event-driven+%7C+Microservices+%7C+High-performance+APIs;Open+to+remote+backend+%2F+SDE+roles+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
+  <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav09sharma/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/keshavsharmma)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshav-sudo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thesharmakeshav@gmail.com)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav09sharma/)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/keshavsharmma)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshav-sudo)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thesharmakeshav@gmail.com)
 </div>
 
 ---
@@ -235,14 +224,15 @@ func (k *Keshav) Motto() string {
 
 ```
 ┌─────────────────────────────────────────────┐
-│  📬  thesharmakeshav@gmail.com               │
-│  📍  Bareilly, India                         │
-│  🟢  Open to Remote Backend / SDE roles      │
+│  📬  thesharmakeshav@gmail.com              │
+│  📍  Bareilly, India                        │
+│  🟢  Open to Remote Backend / SDE roles     │
 └─────────────────────────────────────────────┘
 ```
 
 *"Build scalable systems. Optimize performance. Design systems that scale beyond a single machine."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=keshav-sudo&color=00ff88&style=flat-square&label=Profile+Views)
+
 
 </div>
