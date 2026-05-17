@@ -26,7 +26,7 @@ role        : Backend Engineer
 location    : Bareilly, India 📍
 focus       : Distributed Systems · Microservices · Event-Driven Architecture
 stack       : Go · Node.js · Kafka · gRPC · PostgreSQL · Redis · Docker · K8s
-goal        : { 🎯 Goal: Remote Dev Job(SDE) In 7-10 Months
+goal        : { 🎯 Goal: Remote Dev Job(SDE) In 7-10 Months 𓊍 
                 🏆 Completed 1st Goal : Paid Internship Goal @CLinixSphere – 4 Sep 2025
                 🏆 Completed 1st Goal : Paid Internship Goal @Sheryians – 24 nov 2025
                }
