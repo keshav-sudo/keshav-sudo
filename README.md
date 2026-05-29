@@ -201,7 +201,7 @@ Stack: TypeScript • Azure Blob Storage • BullMQ • Redis • Mongoose
 ---
 
 ## `> echo $PHILOSOPHY`
-
+  
 ```go
 // keshav.go
 
